@@ -6,6 +6,8 @@ import urllib, urllib2, json
 import hmac, hashlib
 
 
+# 天翼免费短信接口
+
 class RandCode(object):
     APP_ID = ''
     APP_SECRET = ''
